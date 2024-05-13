@@ -122,6 +122,7 @@ namespace section2
             imageB.sprite = m_btnblack;
             imageC.sprite = m_btnblack;
             imageD.sprite= m_btnblack;
+
             question.text = questionData[p].title;
             answerA.text = questionData[p].answrerA;
             answerB.text= questionData[p].answrerB;
